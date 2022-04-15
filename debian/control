@@ -5,7 +5,7 @@ Standards-Version: 4.5.1
 Maintainer: Hiroaki Nakamura <hnakamur@gmail.com>
 Build-Depends: bison,
                curl,
-               debhelper-compat (= 13),
+               debhelper,
                default-libmysqlclient-dev,
                dnsutils,
                flex,
