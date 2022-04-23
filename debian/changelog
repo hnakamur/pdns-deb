@@ -1,3 +1,9 @@
+pdns (4.6.2-1ppa1~jammy) jammy; urgency=medium
+
+  * Change debian-branch to ubuntu/jammy
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Sat, 23 Apr 2022 18:31:25 +0900
+
 pdns (4.6.2-1ppa1~focal) focal; urgency=medium
 
   * New upstream version 4.6.2
